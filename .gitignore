@@ -1,0 +1,18 @@
+# 忽略所有 .log 文件
+*.log
+*.py
+*.png
+*.pkl
+*.docx
+*.tmp
+
+# 忽略 build 目录及其内容
+build/
+Torch_checkpoints/
+Set14/
+Urban100/
+params/
+imagenette2/
+DIV2K/
+checkpoints/
+# 忽略特定文件
