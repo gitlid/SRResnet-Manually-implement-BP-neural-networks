@@ -15,4 +15,6 @@ params/
 imagenette2/
 DIV2K/
 checkpoints/
+.idea/
+__pycache__/
 # 忽略特定文件
